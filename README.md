@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+
+![Sourav's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sr-vZ&show_icons=true&theme=radical)
+
 <!--
 **Sr-vZ/Sr-vZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
