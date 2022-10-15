@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am Sourav De currently working as Automation Build Specialist in BT.
+I am Sourav De currently working as DevOps Engineer in TCS.
 
 I have experience in Network and Infrastructure automation and currently involved in DevOps infrastructure and developing automation solutions. I also do freelance software and web development, mostly on UpWork. I regaularly work on Python, NodeJS, PowerShell and develop solution in MS SharePoint, PowerApps and PowerAutomate like low code solutions as well.
 
